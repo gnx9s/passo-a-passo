@@ -24,10 +24,5 @@ body {
     box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
     text-align: center;
-    transition: background-color 0.5s;
     background-color: whitesmoke;
-}
-
-.content:hover {
-    background-color: silver;
 }
